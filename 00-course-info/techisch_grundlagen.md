@@ -2,7 +2,7 @@
 
 **Grundidee:** Zwei Rollen – ein _Client_ stellt eine Anfrage, ein _Server_ beantwortet sie.
 
-- **Client** = z. B. Dein Browser (Chrome, Firefox, Safari)
+- **Client** = z. B. Dein Browser (Chrome, Firefox, Safari)
 - **Server** = Der Computer, auf dem eine Website gespeichert ist
 
 **Beispiel:** Du gibst `www.museum.ch` in Deinen Browser ein → Der Client fragt den Server nach der Website → Der Server sendet die Webseite zurück.
@@ -14,9 +14,9 @@
 **HTTP = HyperText Transfer Protocol**
 
 - Ist die Sprache, mit der Browser und Server kommunizieren.
-- Sagt dem Server z. B. „Gib mir bitte die Datei `index.html`“.
-- Es gibt verschiedene _HTTP-Methoden_, z. B.:
-  - `GET`: Daten abrufen (z. B. eine Webseite)
+- Sagt dem Server z. B. „Gib mir bitte die Datei `index.html`“.
+- Es gibt verschiedene _HTTP-Methoden_, z. B.:
+  - `GET`: Daten abrufen (z. B. eine Webseite)
   - `POST`: Daten senden (z. B. ein ausgefülltes Kontaktformular)
 
 **HTTPS** ist eine sichere Version – das „S“ steht für „secure“.

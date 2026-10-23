@@ -4,6 +4,15 @@
 Dieses Dokument beschreibt den schrittweisen Aufbau einer einfachen Webstruktur anhand von **example1**. Die Übungen führen von HTML-Grundlagen über CSS-Verknüpfung bis zur Integration einer JavaScript-Datei.
 
 ---
+## 0. Vorbereitung
+**Ziele**
+- Du verstehst die grundlegenden technischen Zusammenhänge des Internets.
+- Du weisst, wie ein Web-Projekt aufgebaut ist
+- Du hast deine Arbeitsumgebung eingerichtet.
+
+**Inhalte**
+- technische Grundlagen
+- Code-Along: Setup
 
 ## 1. HTML: Aufbau und Grundstruktur
 
