@@ -43,10 +43,9 @@ Du benötigst einen **modernen Browser** mit guten Developer Tools.
 
 ## 2. Code-Editor installieren
 
-### PHPStorm - STARK EMPFOHLEN
+### PHPStorm
 
-
-**Download:** https://www.jetbrains.com/academy/student-pack/
+PhpStorm installieren : [Anleitung für mmp-Studierende der FHGR](https://github.com/Interaktive-Medien/101-MMP/blob/main/resources/phpstorm.md)
 
 **Warum VS Code?**
 - Kostenlos und Open Source
@@ -69,32 +68,16 @@ Du benötigst einen **modernen Browser** mit guten Developer Tools.
 
 
 
-## 5. Projekt-Ordner erstellen
+## 3. Arbeitsumgebung einrichten
+Anleitung: [Web-Development-Workflow mit Hostpoint & PhpStorm](https://github.com/Interaktive-Medien/101-MMP/blob/main/resources/Hostpoint_PhpStorm_Tutorials/README.md)
 
-### Empfohlene Ordnerstruktur:
-
-```
-Dokumente/
-└── Webentwicklung/
-    └── IM1-Kurs/
-        ├── 01-html-basics/
-        ├── 02-css-basics/
-        ├── 03-js-basics/
-        └── ...
-```
-
-### Ordner in VS Code öffnen:
-
-1. VS Code öffnen
-2. `File` → `Open Folder` (oder `Cmd + O` / `Ctrl + O`)
-3. Wähle deinen Kurs-Ordner
-4. VS Code zeigt nun alle Dateien im Sidebar
+[Videotutorial Hostpoint und PHPStorm](https://www.youtube.com/playlist?list=PLLZlqg08CVic) (ohne Datenbanken)
 
 **Tipp:** Öffne immer den **gesamten Projekt-Ordner**, nicht einzelne Dateien!
 
 ---
 
-## 7. Browser DevTools kennenlernen
+## 4. Browser DevTools kennenlernen
 
 ### DevTools öffnen:
 
@@ -130,7 +113,7 @@ Dokumente/
 
 ---
 
-## 8. Installation testen
+## 5. Installation testen
 
 ### Test-Projekt erstellen:
 
@@ -207,7 +190,7 @@ Dokumente/
    ```
 
 5. **Testen:**
-   - Rechtsklick auf `index.html` → "Open with Live Server"
+   - Rechtsklick auf `index.html` → Open in → Browser 
    - Seite sollte im Browser öffnen
    - DevTools öffnen (F12)
    - In der Konsole sollte "JavaScript erfolgreich geladen!" stehen
@@ -217,32 +200,10 @@ Dokumente/
 - Browser zeigt die Seite mit Styling
 - Console zeigt die Nachricht
 - Button löst Alert aus
-- Änderungen werden automatisch neu geladen (Live Server)
+- Änderungen werden automatisch neu geladen
 
 **Herzlichen Glückwunsch! Du bist bereit für den Kurs!**
 
----
-
-## Problemlösung
-
-### Live Server startet nicht:
-- Hast du die Extension installiert?
-- Rechtsklick auf eine `.html` Datei (nicht `.css` oder `.js`)
-- Neustart von VS Code
-
-### Prettier formatiert nicht automatisch:
-- "Format On Save" aktiviert?
-- Prettier als Standard-Formatter eingestellt?
-- Settings: "Default Formatter" → "Prettier"
-
-### Änderungen werden nicht angezeigt:
-- Läuft Live Server? (Unten rechts "Port: 5500")
-- Browser-Cache leeren: `Cmd/Ctrl + Shift + R`
-- Datei gespeichert?
-
-### VS Code findet Dateien nicht:
-- Öffne den **ganzen Ordner**, nicht einzelne Dateien
-- `File` → `Open Folder`
 
 ---
 
@@ -256,23 +217,6 @@ Dokumente/
 
 ## Tipps für den Alltag
 
-### VS Code Shortcuts (lerne diese auswendig!):
-
-**Mac:**
-- `Cmd + S` - Speichern
-- `Cmd + P` - Datei schnell öffnen
-- `Cmd + Shift + P` - Command Palette
-- `Cmd + /` - Zeile kommentieren/entkommentieren
-- `Cmd + D` - Nächstes Vorkommen auswählen
-- `Option + Shift + ↓/↑` - Zeile duplizieren
-
-**Windows/Linux:**
-- `Ctrl + S` - Speichern
-- `Ctrl + P` - Datei schnell öffnen
-- `Ctrl + Shift + P` - Command Palette
-- `Ctrl + /` - Zeile kommentieren/entkommentieren
-- `Ctrl + D` - Nächstes Vorkommen auswählen
-- `Alt + Shift + ↓/↑` - Zeile duplizieren
 
 ### Best Practices:
 

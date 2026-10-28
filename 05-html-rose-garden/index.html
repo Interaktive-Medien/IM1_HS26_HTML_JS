@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>orbit — Dein Überblick</title>
+  <link rel="icon" type="image/svg+xml" href="img/logo.svg">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-content">
+      <a class="logo" href="#start" aria-label="orbit – Startseite">
+        <img src="img/logo.svg" alt="" width="36" height="36">
+        <span>orbit<span class="logo-dot">.</span></span>
+      </a>
+      <nav aria-label="Hauptnavigation">
+        <a href="#dashboard">Dashboard <span aria-hidden="true">↗</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="start">
+    <section class="hero container" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="kicker">Schau mal hier. Schau mal da.</p>
+        <h1 id="hero-title">Grosse Ideen.<br>Alles <span>im Blick.</span></h1>
+        <p class="description">Ein klarer Kopf beginnt mit einem guten Überblick. Hier findest du deine wichtigsten Zahlen — einfach, kompakt und an einem Ort.</p>
+
+      </div>
+      <img class="hero-image" src="img/hero.svg" alt="Ein grüner Planet mit zwei Umlaufbahnen" width="460" height="340">
+    </section>
+
+    <section class="dashboard container" id="dashboard" aria-labelledby="dashboard-title">
+      <div class="section-heading">
+        <div>
+          <p class="kicker">DEIN DASHBOARD</p>
+          <h2 id="dashboard-title">Die blanken Zahlen</h2>
+        </div>
+        <span class="demo-label">Demo · Alle Werte frei erfunden</span>
+      </div>
+
+      <div class="card-grid">
+        <article class="card">
+          <h3>Besucher:innen</h3>
+          <p class="metric">12’840</p>
+        </article>
+
+        <article class="card">
+          <h3>Aktive Projekte</h3>
+          <p class="metric">24</p>
+        </article>
+
+        <article class="card">
+          <h3>Kaffee &amp; Kreativität</h3>
+          <p class="metric">98 %</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-content">
+      <a class="logo" href="#start" aria-label="orbit – Zurück nach oben">
+        <img src="img/logo.svg" alt="" width="30" height="30">
+        <span>orbit<span class="logo-dot">.</span></span>
+      </a>
+      <p>© 2026 orbit. Alle Rechte vorbehalten.</p>
+    </div>
+  </footer>
+</body>
+</html>
