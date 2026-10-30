@@ -1,4 +1,4 @@
-# Entwicklungsumgebung Setup --- Muss noch überarbeitet werden
+# Entwicklungsumgebung Setup
 
 Ein Schritt-für-Schritt-Guide für die perfekte Einrichtung deiner Entwicklungsumgebung.
 
@@ -46,14 +46,6 @@ Du benötigst einen **modernen Browser** mit guten Developer Tools.
 ### PHPStorm
 
 PhpStorm installieren : [Anleitung für mmp-Studierende der FHGR](https://github.com/Interaktive-Medien/101-MMP/blob/main/resources/phpstorm.md)
-
-**Warum VS Code?**
-- Kostenlos und Open Source
-- Hervorragende Extensions
-- Integriertes Terminal
-- Git-Integration
-- IntelliSense (Code-Vervollständigung)
-- Funktioniert auf Mac, Windows & Linux
 
 ### Installation:
 
