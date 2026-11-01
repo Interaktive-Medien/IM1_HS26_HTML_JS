@@ -2,7 +2,7 @@
 
 Willkommen zum Kurs **Interaktive Medien 1**! Dieser Kurs führt dich systematisch in die Grundlagen der Webentwicklung ein.
 
-## Kursstruktur
+## Kursstruktur:
 
 Der Kurs ist in **6 Module** gegliedert, die aufeinander aufbauen:
 
