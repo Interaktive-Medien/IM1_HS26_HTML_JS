@@ -137,8 +137,7 @@ Hier findest du:
 ### Bevor du anfängst:
 
 1. **Entwicklungsumgebung einrichten** → [Setup-Anleitung](./00-course-info/entwicklungsumgebung-setup.md)
-   - VS Code installieren
-   - Live Server Extension
+   - PhpStorm installieren
    - Browser DevTools kennenlernen
 
 2. **Häufige Fehler kennen** → [Fehler & Lösungen](./00-course-info/haeufige-fehler-und-loesungen.md)
@@ -158,7 +157,7 @@ open solution/index.html  # macOS
 start solution/index.html # Windows
 xdg-open solution/index.html # Linux
 
-# 3. Mit einem Code-Editor öffnen (z.B. VS Code)
+# 3. Mit einem Code-Editor öffnen (z.B. PhpStorm)
 code .
 ```
 
@@ -173,12 +172,8 @@ Für jedes Modul:
 
 ## Empfohlene Tools
 
-- **Code-Editor:** [Visual Studio Code](https://code.visualstudio.com/)
+- **Code-Editor:** [PhpStorm](https://www.jetbrains.com/de-de/phpstorm/)
 - **Browser:** Chrome, Firefox oder Edge (mit DevTools)
-- **VS Code Extensions:**
-  - Live Server (für lokale Entwicklung)
-  - Prettier (Code-Formatierung)
-  - HTML CSS Support
 
 ## Hilfreiche Ressourcen
 
