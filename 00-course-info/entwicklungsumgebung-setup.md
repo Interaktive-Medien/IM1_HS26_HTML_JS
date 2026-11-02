@@ -34,7 +34,6 @@ Du benötigst einen **modernen Browser** mit guten Developer Tools.
 - Vorteile: Gute Privatsphäre, ausgezeichnete CSS-Grid-Tools
 
 **Option 3: Microsoft Edge**
-- Download: https://www.microsoft.com/edge
 - Vorteile: Basiert auf Chromium, bereits auf Windows vorinstalliert
 
 **Nicht empfohlen:** Safari (begrenzte DevTools), Internet Explorer (veraltet)

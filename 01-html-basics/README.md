@@ -62,7 +62,7 @@ Erstelle eine eigene HTML-Datei mit:
 
 ### "Umlaute werden falsch angezeigt!"
 - `<meta charset="UTF-8">` im `<head>`?
-- Datei als UTF-8 gespeichert? (VS Code macht das automatisch)
+- Datei als UTF-8 gespeichert? (PhpStorm macht das automatisch)
 
 **Mehr Hilfe:** [Häufige Fehler & Lösungen](../00-course-info/haeufige-fehler-und-loesungen.md)
 

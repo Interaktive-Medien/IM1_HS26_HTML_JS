@@ -14,7 +14,7 @@ Dieser Kurs führt dich Schritt für Schritt in die Grundlagen der Webentwicklun
 ### Start hier (WICHTIG!)
 
 1. **[Entwicklungsumgebung Setup](./entwicklungsumgebung-setup.md)**
-   - VS Code installieren und konfigurieren
+   - PhpStorm installieren und konfigurieren
    - Browser DevTools kennenlernen
    - Live Server einrichten
    - Test-Projekt durchführen

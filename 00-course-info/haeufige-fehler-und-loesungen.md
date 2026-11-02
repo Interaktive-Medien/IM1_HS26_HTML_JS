@@ -16,7 +16,6 @@ Ein Leitfaden für typische Anfängerfehler und wie man sie behebt.
 
 2. **Datei nicht gespeichert**
    - **Lösung:** Speichere die Datei (`Cmd + S` / `Ctrl + S`)
-   - Tipp: In VS Code zeigt ein Punkt neben dem Dateinamen an, dass die Datei noch nicht gespeichert ist
 
 3. **Falsche Datei geöffnet**
    - **Lösung:** Prüfe, ob du wirklich die richtige Datei im Browser geöffnet hast
@@ -390,7 +389,8 @@ button.addEventListener('click', () => {
 - Notepad (Windows) - besser als Word, aber basic
 
 **Empfohlen:**
-- Visual Studio Code (am besten!)
+- PhpStorm (am besten!)
+- Visual Studio Code
 - Sublime Text
 - Atom
 
@@ -405,15 +405,6 @@ button.addEventListener('click', () => {
 - **Console:** JavaScript-Fehler und console.log()
 - **Network:** Prüfen ob Dateien geladen werden
 - **Sources:** JavaScript debuggen
-
-### 3. Keine Live-Server-Extension
-
-**Problem:** Müssen immer manuell neu laden
-
-**Lösung:** Installiere "Live Server" für VS Code
-- Dateien werden automatisch neu geladen
-- Startet lokalen Webserver
-- Klick auf "Go Live" unten rechts in VS Code
 
 ---
 
@@ -535,7 +526,7 @@ function test() {
 </div>
 ```
 
-**Tipp:** Nutze Prettier (VS Code Extension) für automatische Formatierung!
+**Tipp:** Nutze Prettier für automatische Formatierung!
 
 ### Aussagekräftige Namen verwenden
 
@@ -558,7 +549,7 @@ const currentDate = new Date();
 1. **Browser-Konsole** - erste Anlaufstelle für Fehler
 2. **MDN Web Docs** - beste Dokumentation
 3. **Stack Overflow** - Community-Fragen
-4. **VS Code Fehlermarkierungen** - rote Wellenlinien beachten!
+4. **PhpStorm Fehlermarkierungen** - rote Wellenlinien beachten!
 5. **Kommilitonen/Dozenten fragen**
 
 **Bevor du fragst:**
